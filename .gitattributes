@@ -13,3 +13,5 @@ gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/libc/us
 gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/libc/usr/lib/aarch64-linux-gnu/libopencv_cvv.a filter=lfs diff=lfs merge=lfs -text
 gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/libc/usr/lib/aarch64-linux-gnu/libLLVM-14.so.1 filter=lfs diff=lfs merge=lfs -text
 gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/libc/usr/lib/aarch64-linux-gnu/libwebkit2gtk-4.1.so.0.13.6 filter=lfs diff=lfs merge=lfs -text
+gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu.tar.gz filter=lfs diff=lfs merge=lfs -text
+opizero3-cinder-dependencies-sysroot.tar.gz filter=lfs diff=lfs merge=lfs -text
